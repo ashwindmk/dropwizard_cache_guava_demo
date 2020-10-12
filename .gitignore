@@ -1,0 +1,14 @@
+### IntelliJ ###
+.classpath
+.project
+.settings/
+/bin
+/.idea
+
+### Dropwizard ###
+/target
+/dependency-reduced-pom.xml
+/*.iml
+
+### Mac ###
+**/.DS_Store
