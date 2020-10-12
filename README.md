@@ -1,4 +1,4 @@
-# Dropwizard Guava Demo
+# Dropwizard Guava Cache Demo
 
 ### Sample Request
 
